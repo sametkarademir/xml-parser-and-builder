@@ -104,9 +104,3 @@ src/
 - The XML parser is designed for typical integration‑style XMLs and may not support every edge case of the XML spec.
 - Large XML files may impact browser performance; this tool is primarily intended for small–medium payloads.
 - There is no persistence layer; mappings exist only in the current browser session.
-
----
-
-## License
-
-MIT
